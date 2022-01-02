@@ -1,6 +1,7 @@
 # school-7-uml
 
 # DCU (Diagramme de cas utilisation)
+![exemple](https://user-images.githubusercontent.com/19282069/147890102-8e95a346-689b-4a17-877e-71073d278e16.png)
 
 # DCL (Diagramme de classes)
 ## Exemple
