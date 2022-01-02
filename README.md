@@ -4,7 +4,7 @@
 
 # DCL (Diagramme de classes)
 ## Exemple
-[exemple](https://user-images.githubusercontent.com/19282069/147890021-7928e452-555a-4ec1-ab94-73aba2e76538.png)
+![exemple](https://user-images.githubusercontent.com/19282069/147890021-7928e452-555a-4ec1-ab94-73aba2e76538.png)
 
 # DES (Diagramme de séquence)
 [Cours](http://uml.free.fr/cours/p19.html)
