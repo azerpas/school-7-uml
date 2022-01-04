@@ -1,9 +1,13 @@
 # school-7-uml
 
+[Notes sur l'intro](intro.md)
+
 # DCU (Diagramme de cas utilisation)
-![exemple](https://user-images.githubusercontent.com/19282069/147890102-8e95a346-689b-4a17-877e-71073d278e16.png)
+[Notes](dcu.md)
+![exemple](https://laurent-audibert.developpez.com/Cours-UML/images/fig2_7.png)
 
 # DCL (Diagramme de classes)
+[Notes](dcl.md)
 ## Exemple
 ![exemple](https://user-images.githubusercontent.com/19282069/147890021-7928e452-555a-4ec1-ab94-73aba2e76538.png)
 
@@ -15,6 +19,7 @@
 ![exemple-complet](https://user-images.githubusercontent.com/19282069/147874387-24c62f55-1349-4568-b82f-922af78b8bfb.png)
 
 # DAC (Diagramme d'activités)
+[Notes](dac.md)
 ## Exemple
 ![exemple](https://user-images.githubusercontent.com/19282069/147884453-38e4b9fa-983e-4cd1-b349-67c05671242a.png)
 ## Synchronisation
