@@ -30,3 +30,14 @@
 
 # DET (Diagramme d'état transition)
 ![exemple](https://user-images.githubusercontent.com/19282069/147884353-b4e70c15-1626-42c4-898b-79fefd936222.png)
+
+# DCP (Diagramme de composants) et DPL (Diagramme de déploiement)
+
+[Notes DCP](dcp.md)
+
+## Composant exemple
+![exemple-composant](https://user-images.githubusercontent.com/19282069/148274237-f5b4bbdd-9f02-43a5-89cf-4d1868f44735.png)
+
+## Diagramme de déploiement
+[Notes DPL](dpl.md)
+![exemple-déploiement](https://user-images.githubusercontent.com/19282069/148274434-18910eaf-4a2b-40bc-b35e-bbb641be44c8.png)
